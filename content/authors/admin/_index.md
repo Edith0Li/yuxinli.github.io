@@ -3,7 +3,7 @@
 title: 李雨欣
 
 # Name pronunciation (optional)
-name_pronunciation: Yuxin Li
+#name_pronunciation: Yuxin Li
 
 # Full name (for SEO)
 first_name: Shiung Wu
